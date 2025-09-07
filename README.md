@@ -1,2 +1,2 @@
 # disc-game-launcher
-Two python programs. One allows you to generate files you can put on a USB/Disc/SD Card that launches a game. The second reads devices that get plugged in then launches said game.
+Two python programs. Usb_configurator allows you to generate json files linked to exe/lnk/url files. You then can copy trhis to a usb/sd card/disc. The second one is a script that checks for newly plugged in devices. It then reads these devices root for these json files. If their is a json file there, it launches the app that the json links to. This vcould be used to create retro style discs for you favourite games.
