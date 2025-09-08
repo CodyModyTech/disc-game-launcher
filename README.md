@@ -1,3 +1,4 @@
+REQUIRES PYTHON TO LAUNCH
 Retro Game Auto-Launcher
 
 This tool is designed to automatically launch games like old-school cartridges or discs. It works with USB drives, SD cards, and even discs by detecting when they are inserted and checking for a autorun.json file.
